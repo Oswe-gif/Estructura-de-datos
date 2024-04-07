@@ -33,6 +33,6 @@ Tomada de: https://www.youtube.com/watch?v=0NzAFk1CwaQ&list=PLTd5ehIj0goMTSK7RRA
 **Más información**  
 En el video aprenderás sobre la teoría de las listas enlazadas y cuáles son sus ventajas y desventajas. También recomiendo leer los comentarios del video, ya que hay toda una comunidad hablando de este tipo de datos.  
 
-**video**  
+**Video:**  
 [![image](https://github.com/Oswe-gif/Estructura-de-datos/assets/84868357/ce1d41a3-dbe0-4546-8e5e-57738b431c11)](https://www.youtube.com/watch?v=34ky600VTN0)  
 
