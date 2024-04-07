@@ -31,7 +31,8 @@ Podemos insertar o eliminar elementos en una lista al inicio, al final o en cual
 Tomada de: https://www.youtube.com/watch?v=0NzAFk1CwaQ&list=PLTd5ehIj0goMTSK7RRAPBF4wP-Nj5DRvT&index=2&ab_channel=makigas  
 
 **Más información**  
-En el video aprenderás sobre la teoría de las listas enlazadas y cuáles son sus ventajas y desventajas. También recomiendo leer los comentarios del video, ya que hay toda una comunidad hablando de este tipo de datos.
+En el video aprenderás sobre la teoría de las listas enlazadas y cuáles son sus ventajas y desventajas. También recomiendo leer los comentarios del video, ya que hay toda una comunidad hablando de este tipo de datos.  
 
+**video**  
 [![image](https://github.com/Oswe-gif/Estructura-de-datos/assets/84868357/ce1d41a3-dbe0-4546-8e5e-57738b431c11)](https://www.youtube.com/watch?v=34ky600VTN0)  
 
